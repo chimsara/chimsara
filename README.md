@@ -21,6 +21,7 @@ I would love to immerse in an enriching internship to learn more about UI Design
 <p align="center"><a href="https://linkedin.com/in/https://www.linkedin.com/in/chimsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chimsara/" height="30" width="40" /></a>
 </p>
 
+<br>
 <h1 align="center">Languages and Tools</h1>
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimsara&show_icons=true&locale=en&layout=compact" alt="chimsara" />
@@ -49,3 +50,4 @@ I would love to immerse in an enriching internship to learn more about UI Design
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
+<br>
