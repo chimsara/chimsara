@@ -4,7 +4,7 @@
 **chimsara/chimsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 <h1 align="center">Hi! I'm Erica 💕</h1>
-<h3 align="center">An aspiring frontend developer based in the Washington D.C Area</h3>
+<h3 align="center">An aspiring frontend developer with a love for user-friendly design</h3>
 
 <p align="left">
 My name is Erica Nwoga. I am a senior Computer Science student at the University of Maryland. I am looking forward to graduating in December 2023. Outside of school, I tutor elementary to high school students in mathematics. Other hobbies I enjoy are...<br><br>
