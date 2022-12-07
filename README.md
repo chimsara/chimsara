@@ -7,13 +7,13 @@
 <h3 align="center">An aspiring frontend developer based in the Washington D.C Area</h3>
 
 <p align="left">
-My name is Erica Nwoga. I am a senior Computer Science student at the University of Maryland. Outside of my classes, I tutor elementary to high school students in mathematics. During my free time, I enjoy ...<br><br>
+My name is Erica Nwoga. I am a senior Computer Science student at the University of Maryland. I am looking forward to graduating in December 2023. Outside of school, I tutor elementary to high school students in mathematics. Other hobbies I enjoy are...<br><br>
 
   &emsp;&emsp;🎨 Traditional and digital illustrating <br>
   &emsp;&emsp;📚 Reading novels and web-comics <br>
   &emsp;&emsp;🎾 Playing tennis <br><br> 
 
-I would love to immerse in an enriching internship to learn more about UI Design, Web/Software development, or any other related fields. 🌱 
+Currently, I am looking for internship opportunities within the spheres of UI Design, Web Development, Software Development, or other related fields. 🌱 
 </p>
 
 <br>
