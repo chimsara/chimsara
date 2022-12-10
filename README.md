@@ -25,7 +25,7 @@ Currently, I am looking for internship opportunities within the spheres of UI De
 <h1 align="center">Languages and Tools</h1>
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimsara&show_icons=true&locale=en&layout=compact" alt="chimsara" />
-
+<br>
 <!-- HTML --!>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 
