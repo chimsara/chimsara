@@ -7,13 +7,13 @@
 <h3 align="center">An aspiring frontend developer with a love for user-friendly design</h3>
 
 <p align="left">
-My name is Erica Nwoga. I am a senior Computer Science student at the University of Maryland. I am looking forward to graduating in December 2023. Outside of school, I tutor elementary to high school students in mathematics. Other hobbies I enjoy are...<br><br>
+My name is Erica Nwoga. I am a senior Computer Science student at the University of Maryland, graduating in December 2023. Outside of school, I tutor students K-12 in mathematics. Other hobbies I enjoy are...<br><br>
 
   &emsp;&emsp;🎨 Traditional and digital illustrating <br>
   &emsp;&emsp;📚 Reading novels and web-comics <br>
   &emsp;&emsp;🎾 Playing tennis <br><br> 
 
-Currently, I am looking for internship opportunities within the spheres of UI Design, Web Development, Software Development, or other related fields. 🌱 
+Currently, I am looking for a full-time role within Web Development, Software Development, or other related fields. 🌱 
 </p>
 
 <br>
@@ -22,7 +22,7 @@ Currently, I am looking for internship opportunities within the spheres of UI De
 </p>
 
 <br>
-<h1 align="center">Languages and Tools</h1>
+<h1 align="center">Languages and Frameworks</h1>
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimsara&show_icons=true&locale=en&layout=compact" alt="chimsara" />
 <br>
@@ -42,12 +42,11 @@ Currently, I am looking for internship opportunities within the spheres of UI De
 <!-- NODEJS --!>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 
-<!-- JAVA --!>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
 <!-- PYTHON --!>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> </a> 
-          
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<!-- JAVA --!>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java" width="40" height="40"/> </a> 
           
 </p>
 
