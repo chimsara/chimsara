@@ -7,7 +7,7 @@
 <h3 align="center">An aspiring frontend developer with a love for user-friendly design</h3>
 
 <p align="left">
-My name is Erica Nwoga. I am a senior Computer Science student at the University of Maryland, graduating in December 2023. Outside of school, I tutor students K-12 in mathematics. Other hobbies I enjoy are...<br><br>
+My name is Erica Nwoga. I am a new grad Computer Science major from the University of Maryland. Outside of school, I tutor students K-12 in mathematics. Other hobbies I enjoy are...<br><br>
 
   &emsp;&emsp;🎨 Traditional and digital illustrating <br>
   &emsp;&emsp;📚 Reading novels and web-comics <br>
