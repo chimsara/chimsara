@@ -12,13 +12,13 @@ My name is Erica Nwoga. I am a recent Computer Science graduate from the Univers
 
 <br>
 <h1 align="center">Let's Connect</h1>
-<p align="center"><a href="https://linkedin.com/in/https://www.linkedin.com/in/chimsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chimsara/" height="30" width="40" /></a>
+<p align="center"><a href="https://linkedin.com/in/https://www.linkedin.com/in/ericanwoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ericanwoga/" height="30" width="40" /></a>
 </p>
 
 <br>
 <h1 align="center">Languages and Frameworks</h1>
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimsara&show_icons=true&locale=en&layout=compact" alt="chimsara" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericanwoga&show_icons=true&locale=en&layout=compact" alt="ericanwoga" />
 <br>
 <br>
 <!-- HTML --!>
