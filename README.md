@@ -7,7 +7,7 @@
 <h3 align="center">An aspiring frontend developer with a love for user-friendly design</h3>
 
 <p align="left">
-My name is Erica Nwoga. I am a recent Computer Science graduate from the University of Maryland. Outside of school, I tutor students K-12 in mathematics. Currently, I am looking for a full-time opportunities within Software Development. 🌱 
+My name is Erica Nwoga. I am a recent Computer Science graduate from the University of Maryland. Currently, I am looking for a full-time opportunities within Software Development. 🌱 
 </p>
 
 <br>
